@@ -17,7 +17,6 @@
     </head>
     
     <body>
-        <p>Modif</p>
         
         
         <script src="js/script.js"></script>
